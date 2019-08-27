@@ -15,7 +15,7 @@ import com.ecfunds.www.base.BaseController;
  * @since 2019-08-27
  */
 @RestController
-@RequestMapping("/www/company")
+@RequestMapping("/company")
 public class CompanyController extends BaseController {
 
 }

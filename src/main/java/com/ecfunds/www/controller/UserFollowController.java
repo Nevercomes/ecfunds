@@ -15,7 +15,7 @@ import com.ecfunds.www.base.BaseController;
  * @since 2019-08-27
  */
 @RestController
-@RequestMapping("/www/user-follow")
+@RequestMapping("/user-follow")
 public class UserFollowController extends BaseController {
 
 }

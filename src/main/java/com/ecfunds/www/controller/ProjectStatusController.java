@@ -15,7 +15,7 @@ import com.ecfunds.www.base.BaseController;
  * @since 2019-08-27
  */
 @RestController
-@RequestMapping("/www/project-status")
+@RequestMapping("/project-status")
 public class ProjectStatusController extends BaseController {
 
 }

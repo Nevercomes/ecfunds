@@ -15,7 +15,7 @@ import com.ecfunds.www.base.BaseController;
  * @since 2019-08-27
  */
 @RestController
-@RequestMapping("/www/project-topic")
+@RequestMapping("/project-topic")
 public class ProjectTopicController extends BaseController {
 
 }

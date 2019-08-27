@@ -15,7 +15,7 @@ import com.ecfunds.www.base.BaseController;
  * @since 2019-08-27
  */
 @RestController
-@RequestMapping("/www/user-private-letter")
+@RequestMapping("/user-private-letter")
 public class UserPrivateLetterController extends BaseController {
 
 }

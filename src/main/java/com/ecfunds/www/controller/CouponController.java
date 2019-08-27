@@ -15,7 +15,7 @@ import com.ecfunds.www.base.BaseController;
  * @since 2019-08-27
  */
 @RestController
-@RequestMapping("/www/coupon")
+@RequestMapping("/coupon")
 public class CouponController extends BaseController {
 
 }
