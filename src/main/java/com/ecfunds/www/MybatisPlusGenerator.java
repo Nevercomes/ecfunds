@@ -88,6 +88,7 @@ public class MybatisPlusGenerator {
         strategy.setSuperEntityClass("com.ecfunds.www.base.BaseObject");
         strategy.setEntityLombokModel(true);
         strategy.setRestControllerStyle(true);
+        strategy.setTablePrefix("cf_");
         // 公共父类
         strategy.setSuperControllerClass("com.ecfunds.www.base.BaseController");
         // 写于父类中的公共字段
